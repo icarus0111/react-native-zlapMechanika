@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "495164429164",
+    "firebase_url": "https://zlapmechanika.firebaseio.com",
+    "project_id": "zlapmechanika",
+    "storage_bucket": "zlapmechanika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495164429164:android:385f25e70e7779dd515949",
+        "android_client_info": {
+          "package_name": "com.kotnis.zlapmechanika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495164429164-msm6vmf63jtli42u2351g6p0dnv1haab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEBl1gyOTgjDd-xEC3xWp_1vXvkhggst0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495164429164-msm6vmf63jtli42u2351g6p0dnv1haab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495164429164:android:2fcd63545542ffec515949",
+        "android_client_info": {
+          "package_name": "com.kotnis.zlapmechanika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495164429164-msm6vmf63jtli42u2351g6p0dnv1haab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEBl1gyOTgjDd-xEC3xWp_1vXvkhggst0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495164429164-msm6vmf63jtli42u2351g6p0dnv1haab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
